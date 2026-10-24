@@ -108,8 +108,8 @@ It is a **modular monolith**. Modules talk only through public APIs and events, 
 You need Python 3.12 or newer. Linux and macOS:
 
 ```bash
-git clone https://github.com/alexmaralless-bit/AI_trainer_eng.git
-cd AI_trainer_eng
+git clone https://github.com/argmaster-dev/english-memory-trainer.git
+cd english-memory-trainer
 uv sync --python 3.12                    # or: python3.12 -m venv .venv && .venv/bin/pip install -e . --group dev  (pip >= 25.1)
 source .venv/bin/activate                # or call .venv/bin/trainer directly
 ```
