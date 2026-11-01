@@ -215,6 +215,10 @@ Case study of that phase (problem, diagnosis, decision, measured results): [docs
 | `staging/` | Non-canon provenance: concepts, journals, reviews, handoff prompts, demos |
 | `CLAUDE.md`, `AGENTS.md` | Operating rules for Claude Code and Codex |
 
+## Author
+
+Telegram channel [@sitimlab](https://t.me/sitimlab) · website [sitimlab.ru](https://sitimlab.ru/?utm_source=github&utm_medium=profile)
+
 ## License and attributions
 
 Code and authored content are MIT-licensed — see [LICENSE](LICENSE). Some values in `curriculum/lexicon/` are derived from CC BY-SA 4.0 sources (wordfreq 3.1.1 frequency data, NGSL 1.2 / BSL 1.2 membership) and remain under CC BY-SA 4.0; full per-source notices are in [ATTRIBUTIONS.md](ATTRIBUTIONS.md) and `curriculum/lexicon/_provenance.yaml`. Raw datasets are never committed.
