@@ -1,5 +1,7 @@
 # English Memory Trainer
 
+Author: Telegram channel [@sitimlab](https://t.me/sitimlab) · website [sitimlab.ru](https://sitimlab.ru/?utm_source=github&utm_medium=profile)
+
 A local-first engine for learning American English with an AI tutor you already use in your terminal (Claude Code, Codex or a similar shell-capable agent). The split of responsibilities is the whole idea:
 
 - **The tutor is the teacher.** It runs the lesson in chat: explains, asks, corrects, and decides whether each answer is correct, partial or incorrect.
